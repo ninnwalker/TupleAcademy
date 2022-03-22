@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;1,300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+body,a {
+  color: #000 !important;
+}
+.navbar {
+  box-shadow: 0px 1px 4px #dfdada;
+}
+
+
+.wrap-newlease {
+  position: relative;
+}
+
+.card-item-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.card-item-row img {
+  width: 175px;
+}
+
+
+@media (min-width: 1200px){}
+  .container, .container-lg, .container-md, .container-sm, .container-xl {
+      max-width: 72rem !important;
+  }
+}

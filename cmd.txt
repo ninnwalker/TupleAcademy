@@ -1,0 +1,14 @@
+docker-compose up   => start docker
+
+docker down  => stop docker
+
+
+
+
+
+video = done week-10
+
+
+
+
+
